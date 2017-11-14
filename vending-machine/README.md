@@ -2,6 +2,12 @@
 <p>In this pair-programming project, Jason Ronis and I created a command-line application that mimics the properties 
   and functionality of a vending machine.</p>
 <p>Requirements can be found <a href="https://github.com/awaltrip/te-work/blob/master/vending-machine/Module%201%20Capstone-Vending%20Machine%20Terminal.pdf">here</a>.</p>
+<p>We were provided with a very simple VendingMachineCLI class and Menu class to get started. We expanded upon those classes, and added two more:</p>
+<ol>
+  <li>A VendingMachine class to hold methods and attributes that a real machine would hold, such as hold inventory and manage the monetary balance.</li>
+  <li>An Item class to hold the attributes of each item in the inventory.</li>
+</ol>
+<p>Functionality we achieved includes:</p>
 <ul>
   <li>Vending machine inventory is stocked via an input file (CSV); inventory includes chips, candy, beverages, and gum.</li>
   <li>The user can choose to have the machine display a list of items, including name, price, and 
