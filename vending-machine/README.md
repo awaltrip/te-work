@@ -1,5 +1,5 @@
 <h1>Vending Machine Application</h1>
-<p>In this pair-programming project, Jason Ronis and I created a command-line application that mimics the properties 
+<p>In this pair-programming project, Jason Ronis and I created a command-line application in Java which mimics the properties 
   and functionality of a vending machine.</p>
 <p>The requirements for this project can be found <a href="https://github.com/awaltrip/te-work/blob/master/vending-machine/Module%201%20Capstone-Vending%20Machine%20Terminal.pdf">here</a>.</p>
 <p>We were provided with a very simple VendingMachineCLI class and Menu class to get started. We expanded upon those classes, and added two more:</p>
