@@ -14,5 +14,5 @@
     quantity remaining in the machine.</li>
   <li>The user can feed the machine money, choose items to purchase, end the transaction and get change.</li>
   <li>All monetary transactions are logged in a text file for auditing purposes.</li>
-  <li>JUnit tests are included.</li>
+  <li>JUnit tests and manual tests were performed to drive development, assure the app functions correctly, and will not break from bad user input.</li>
 </ul>
