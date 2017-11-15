@@ -4,8 +4,8 @@
 <p>The requirements for this project can be found <a href="https://github.com/awaltrip/te-work/blob/master/vending-machine/Module%201%20Capstone-Vending%20Machine%20Terminal.pdf">here</a>.</p>
 <p>We were provided with a very simple VendingMachineCLI class and Menu class to get started. We expanded upon those classes, and added two more:</p>
 <ol>
-  <li>A VendingMachine class to hold methods and attributes that a real machine would hold, such as hold inventory and manage the monetary balance.</li>
-  <li>An Item class to hold the attributes of each item in the inventory.</li>
+  <li>A VendingMachine class to hold methods and attributes that a real machine would have, such as hold inventory and manage the monetary balance.</li>
+  <li>An Item class to hold the attributes of each item in the inventory - name, machine slot #, price, and quantity remaining.</li>
 </ol>
 <p>Functionality we achieved includes:</p>
 <ul>
